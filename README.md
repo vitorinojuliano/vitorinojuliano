@@ -1,6 +1,4 @@
-# Juliano Vitorino - GitHub Profile
-
-## 👋 Olá, eu sou Juliano Vitorino!
+## 👋 Olá, eu sou Juliano Vitorino estudante de Ciência da Computação!
 
 - 🎓 **Formação:** Ciência da Computação
 - 🌱 **Atualmente Aprendendo:** Machine Learning e Automação
